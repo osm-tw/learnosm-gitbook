@@ -1,14 +1,14 @@
 ---
 layout: contribute
-permalink: /en/contribute/
-lang: en
-title: Contribute
-contributetitle: "Help improve our guides"
-startwith: "Ready to get started?"
-startA: "Send us feedback"
-startB: "Create a translation"
-startC: "Improve Language"
-startD: "Report issues and contribute"
+permalink: /zh-tw/contribute/
+lang: zh-tw
+title: 貢獻方式
+contributetitle: "幫忙改進入門指南"
+startwith: "準備開始了嗎？"
+startA: "回饋意見"
+startB: "創建新翻譯"
+startC: "改進翻譯"
+startD: "分叉和改進網站"
 nosearch: true
 ---
-This guide is created and maintained by the [OpenStreetMap](http://www.openstreetmap.org/) and [Humanitarian OpenStreetMap](http://hotosm.org/) community. You can help us improve this guide by simply sending your feedback or by contributing directly to it via [Github](http://github.com/hotosm/learnosm).
+這份入門指南是由[開放街圖](http://www.openstreetmap.org/)和[人道開放街圖小組](http://hotosm.org/)社群創建和維護。你可以藉由傳送簡單的回饋或者是直接透過 [Github](http://github.com/hotosm/learnosm) 參與幫忙，改進這份入門指南。

@@ -1,16 +1,16 @@
 ---
 layout: doc
-title: Getting Started with JOSM
-permalink: /en/beginner/start-josm/
-lang: en
-category: beginner
-published: true
+title: 開始使用 JSOM 編輯
+permalink: /zh-tw/beginner/start-josm/
+lang: zh-tw
+category: 初學者
+published: false
 ---
 
-Getting Started with JOSM
+開始使用 JSOM 編輯
 =============================
 
-In this chapter we will learn step by step how to download and install
+在這章節中，我們會一步一步學習怎麼下載和安裝 JOSM，Java 開放街圖編輯器。。In this chapter we will learn step by step how to download and install
 JOSM, the Java OpenStreetMap editor. We will change some of the settings
 in JOSM to make it easier to use. Then we will open a sample map and
 learn some of the basic operations of the software. Remember in the
@@ -244,16 +244,6 @@ Summary
 Excellent! If all went well you have learned how to setup JOSM on your
 computer, and the basic tools for drawing maps. In the next chapter we will
 take a closer look at the process of editing the OSM map with JOSM.
-
-
-Moving Forward
---------------
-
-Click on the link for further reading on:  
-
-*  [To continue with this beginner series & to learn more about JOSM](/en/beginner/more-about-josm/)  
-*  [To continue with the Remote, Armchair or Mapathon section of LearnOSM](/en/coordination/remote/)  
-
 
 
 [JOSM website]: /images/en/beginner/03_start-josm/en_beg_03_start-josm_image00_josm-website.png
