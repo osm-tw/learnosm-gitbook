@@ -34,6 +34,14 @@ published: true
 
 我們希望你會發現開放街圖的好處，和引起你的興趣。經由這份指南，你很快就能開始透過開放街圖繪製數位地圖。
 
+繼續進行
+--------------
+
+點選以下連結閱讀更多：
+
+*  [開始使用 OpenStreetMap.org](/zh-tw/beginner/start-osm/) 
+*  [開始使用 iD 編輯器](/zh-tw/editing/id-editor/)   
+*  [開始使用 JOSM 編輯器](/zh-tw/beginner/start-josm/)  
 
 [A village in Indonesia]: /images/zh-tw/beginner/01_introduction/zh-tw_beg_01_introduction_image00_village-in-indonesia.png
 [Example of a hand-drawn map]: /images/zh-tw/beginner/01_introduction/zh-tw_beg_01_introduction_image01_hand-drawn-map.png
