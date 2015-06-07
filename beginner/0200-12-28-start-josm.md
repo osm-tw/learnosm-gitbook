@@ -4,37 +4,39 @@ title: 開始使用 JSOM 編輯
 permalink: /zh-tw/beginner/start-josm/
 lang: zh-tw
 category: 初學者
-published: false
+published: true
 ---
 
 開始使用 JSOM 編輯器
 =============================
 
-在這個章節裡，我們將會學到如何一步一步地下載與安裝 JOSM，Java程式寫的 OpenStreetMap 編輯器。我們將會修改一些設定，使 JSOM 更好用。接著我們會打開一個範例地圖，並且學習一些 JOSM 軟體的基礎操作。還記得在介紹章節裡，我們曾要求你繪製你城鎮或村莊的地圖嗎？我們將會 在這個介紹章節再一次的繪製你的地圖，而這次是數位化的。在這之後，你應該對使用 JOSM 繪製地圖有更好的了解。
+在這個章節裡，我們將會學到如何一步一步地下載與安裝 JOSM，Java程式寫的 OpenStreetMap 編輯器。我們將會修改一些設定，使 JSOM 更好用。接著我們會打開範例地圖，並且學習一些 JOSM 軟體的基礎操作。還記得在介紹章節裡，我們曾要求你繪製你城鎮或村莊的地圖嗎？我們將會 在這個介紹章節再一次的繪製你的地圖，而這次是數位化的。在這之後，你應該對使用 JOSM 繪製地圖有更深入的了解。
 
 下載 JOSM
 -------------
 
-- 如果以已經擁有一個 JOSM 的複製在 CD 或 USB 隨身碟上，你可以跳到下一個章節，安裝 JOSM
-- 如果你還沒有 JOSM，或是希望最新的版本，打開你的瀏覽器 ─ 可能是 Firefox、Chrome、Opera或是 IE 瀏覽器。
+- 如果已經有一份有 JOSM 的程式的 CD 或 USB 隨身碟的話，你可以跳到下一個章節，安裝 JOSM
+- 如果你還沒有 JOSM，或是希望安裝最新的版本，那就打開你的瀏覽器 ─ 可能是 Firefox、Chrome、Opera或是 IE 瀏覽器。
 - 在視窗頂端的地址列，輸入下面的文字： [josm.openstreetmap.de](http://josm.openstreetmap.de) 並且按下Enter。
 - 你也可以透過搜尋「JOSM」找到 JOSM 網站。 
 - 網站應該長這個樣子：
 
   ![JOSM website][]
 
-- 如果你的電腦裝的是 Windows ，請點選「Windows Installer」下載 JOSM。
+- 如果你的電腦是 Windows ，請點選「Windows Installer」下載 JOSM。
 
   ![Windows installer][]
 
-- 如果你有一個不一樣的作業系統，點選適於你系統的連結。你的下載應該就會開始。在這個章節裡，我們將會假定你使用 Windows ，但這個介紹也與其他作業系統類似。
+- 如果你是其他作業系統，點選適於你系統的連結。你的下載應該就會開始。在這個章節裡，我們將會假定你使用 Windows ，但這邊的介紹也與其他作業系統類似。
 
 安裝 JOSM
 ------------
 
 > 如果你還沒有在電腦上安裝 JAVA，可能會在安裝 JOSM的時候發生問題。如果你在這個階段發生問題，請嘗試下載安裝 JAVA。你可以在這裡下載JAVA：[http://www.java.com/en/download/](http://www.java.com/en/download/)
 
-- 在電腦上找到 JSOM 安裝檔，在上面雙擊以開始安裝。
+>  Mac使用者也許用的是舊的Java。如果你是用OSX 10/6和10.7.3+作業系，請看這邊[http://wiki.openstreetmap.org/wiki/JOSM/Mac#Installation](http://wiki.openstreetmap.org/wiki/JOSM/Mac#Installation) 
+
+- 在電腦上找到 JSOM 安裝檔，在上面按兩次以開始安裝。
 - 安裝過程中，請點選「OK」、「Next」、「I Agree」與「Install」。安裝完成後，點選「Finish」以啟動 JOSM。
 - 之後，當你想要啟動 JSOM ，你可以點選電腦左下角的開始選單，並點選 JOSM 程式。
 - 你可能會看到一個視窗跳出來，詢問你是否想要升級軟體。因為這是新的，所以你不需要升級。點選「Cancel」按鈕。如果你不想再看到這個訊息，在按下「Cancel」之前，勾選底下的框框。
@@ -42,12 +44,12 @@ published: false
 
   ![JOSM splash page][]
 
-JOSM 偏好
+JOSM 偏好設定
 --------------------
 
-有許多不同的設定可以讓你客製化 JOSM。語言應該是你會想要調整的設定。JOSM 已經被翻譯成許多不同的語言，而你可可能會習慣使用其中一種。
+JOSM擁有有不同設定可以讓你客製化，顯示語言應該是你會想要調整的選項。JOSM 已經被翻譯成許多不同的語言，而你可能會習慣使用其中一種。
 
-- 要打開偏好視窗，請點選 Edit -\> Preferences。
+- 要打開偏好設定視窗，請點選 Edit -\> Preferences。
 
   ![Preferences window][]
 
@@ -140,6 +142,15 @@ JOSM 偏好
 -------
 
 做得好！如果一切順利，你已經學到如何在電腦上設定JOSM，以及如何使用基礎工具來繪製地圖。在下一章，我們會更詳細的了解使用JOSM繪製OSM地圖的步驟。
+
+
+下一步
+--------------
+
+要繼續看下去，請點選下面的連結：
+
+*  [繼續這個初學者指南，並且學習JOSM](/zh-tw/beginner/start-josm/)  
+*  [繼續LearnOSM的遠端， Armchair或Mapathon段落](/zh-tw/coordination/remote/)  
 
 [JOSM website]: /images/en/beginner/03_start-josm/en_beg_03_start-josm_image00_josm-website.png
 [Windows installer]: /images/en/beginner/03_start-josm/en_beg_03_start-josm_image01_windows-installer.png
